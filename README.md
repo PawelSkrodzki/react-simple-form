@@ -3,7 +3,7 @@
 
 ## Live Application URL
 
-### https://pawelskrodzki.github.io/react-form/
+### https://react-form-theta.vercel.app/
 
 
 ### Install Node JS
