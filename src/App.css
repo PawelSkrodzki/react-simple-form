@@ -25,7 +25,6 @@ h1 {
   align-items: center;
   width: 90vw;
   min-width: 320px;
-  height: 80vh;
   min-height: 600px;
   background-color: rgb(255, 255, 255);
   border-radius: 20px 20px;
@@ -35,6 +34,9 @@ h1 {
 .views-container {
   min-height: 50%;
   min-width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .button-container {
