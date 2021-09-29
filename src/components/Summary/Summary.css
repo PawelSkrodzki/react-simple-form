@@ -1,0 +1,13 @@
+.data-title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.single-data {
+  margin-top: 10px;
+}
+
+.single-data span {
+  font-weight: bold;
+  font-style: italic;
+}

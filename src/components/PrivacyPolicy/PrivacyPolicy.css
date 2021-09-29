@@ -1,0 +1,14 @@
+.privacy-policy-container {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.p-container {
+  padding: 15px;
+  border: 1px solid #48aef1;
+  border-radius: 10px;
+}
+
+.p-container p:not(:last-child) {
+  margin-bottom: 20px;
+}

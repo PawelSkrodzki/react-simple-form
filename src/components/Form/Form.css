@@ -1,0 +1,39 @@
+.form-container {
+  max-width: 1000px;
+  min-width: 100%;
+}
+
+.form-inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-input {
+  /* display: block; */
+  padding: 3px;
+  margin: 10px 0;
+}
+
+.name-input,
+.email-input {
+  max-width: 200px;
+}
+
+.text-input {
+  max-width: 1000px;
+}
+
+.error-field {
+  background-color: rgb(233, 34, 34);
+  border: 2px solid rgb(122, 2, 2);
+  padding: 4px 5px;
+  margin-left: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  border-radius: 7px;
+}
+
+.form-submit-button {
+  width: 200px;
+  margin: 30px auto 0 auto;
+}
